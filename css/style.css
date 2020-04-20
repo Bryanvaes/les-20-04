@@ -1,0 +1,42 @@
+html, body {
+  min-height: 150vh;
+  }
+
+.navbar-color {
+  color: white;
+}
+.top-nav-collapse, .colorfooter {
+  box-shadow: none;
+  color: black;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  background-color: rgba(0, 204, 255, 0.788);
+    
+}
+.navbar {
+  box-shadow: none;
+}
+
+.carouselmargindown, .cardmargindown {
+  
+  margin-bottom: 10px;
+}
+
+
+/* cards couleur */ 
+
+
+.caption {
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:white;
+    text-align: center;
+}
+.blackcolor {
+  color: black;
+}
